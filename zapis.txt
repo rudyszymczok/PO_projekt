@@ -1,0 +1,6 @@
+Rzeki
+rzeka zbiornik1 1 2 1 3 4 5
+Rzeki
+rzeka2 zbiornik2 3 6 0 3 2 1
+Oceany
+ocean zbiornik3 1 2 0 2 4
